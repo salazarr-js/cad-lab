@@ -1,4 +1,4 @@
-# CAD Lab
+#  📐 CAD Lab
 
 My learning path for [FreeCAD](https://www.freecad.org/) — and eventually KiCad. This is a place to drop everything I go through while learning: tutorials I follow, quick demos, personal projects, notes and resources.
 
