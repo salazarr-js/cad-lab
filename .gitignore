@@ -1,0 +1,13 @@
+# FreeCAD auto-backups
+*.FCBak
+*.FCStd1
+*.fcmacro.bak
+
+# Python bytecode (freecadcmd compiles scripts on run)
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/settings.local.json
